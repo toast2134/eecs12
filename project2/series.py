@@ -16,6 +16,8 @@ def main():
 	# Lucas - 2, 1, 3, 4, 7...
 	l1,l2=1,2
 	print("Lucas Terms:")
+	
+	# prints Lucas terms from 0th to nth
 	for i in range(n+1):
 		if i==0:
 			l=l2
@@ -31,6 +33,8 @@ def main():
 	# Fibonacci - 0, 1, 1, 2, 3, 5, 8...
 	f1,f2=1,0	
 	print("Fibonacci Terms:")
+
+	# prints Fibonacci terms from 0th to nth
 	for i in range(n+1):
 		if i==0:
 			f=f2
@@ -41,16 +45,17 @@ def main():
 			f2,f1=f1,f
 		print(f)
 	
-	# setting error calculation
+	# setting golden ratio error calculation
 	f1e=f1
 	f2e=f2
 	print("The Nth term of Fibonacci is:",f)
 	
-	# Golden Ratio
+	# Actual Golden Ratio
 	g=(1+math.sqrt(5))/2
 	print("Golden Ratio:",g)
 	
 	# Left side of Fibonacci
+	# prints Fn-k term
 	f1,f2=1,0	
 	for i in range(n-k+1):
 		if i==0:
@@ -63,6 +68,7 @@ def main():
 	fL=f
 	print("Fn-k:",fL)
 	
+	# prints Fn+k term
 	f1,f2=1,0
 	for i in range(n+k+1):
 		if i==0:
@@ -74,9 +80,12 @@ def main():
 			f2,f1=f1,f
 	fU=f
 	print("Fn+k:",fU)
+
+	# adds the two previous calculations to get the "left hand side" of fibonacci series
 	print("Left hand side:",fU+fL)
 	
 	# Right side error
+	# prints Lk (kth term in lucas series)
 	l1,l2=1,2
 	for i in range(k+1):
 		if i==0:
@@ -88,6 +97,7 @@ def main():
 			l2,l1=l1,l
 	print("Lk:",l)
 		
+	# prints Fn (nth term of fibonacci sequence)
 	f1,f2=1,0	
 	for i in range(n+1):
 		if i==0:
@@ -98,9 +108,12 @@ def main():
 			f=f1+f2
 			f2,f1=f1,f
 	print("Fn",f)
+
+	# "Right hand side" calculated by multiplying Lk and Fn
 	print("Right hand side:",f*l)
 	
-	# Fibonacci Error Calculation
+	# Golden Ratio error calculation
+	# rounds to kth terms
 	err=(f1e/f2e)-g
 	print("F_err:",abs(round(err,k)))
 	

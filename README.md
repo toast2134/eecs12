@@ -12,17 +12,11 @@ Online save for EECS12 - Introduction to Python at UCI
 - Turtle Graphics
 - Libraries
 - Dictionaries
-- Lists
-
-### Topics Not Covered
-- Dunder Methods
-- Operator Overloading
-- Lambdas
-- List comprehensions
+- Lists (no list comprehensions)
 
 ### Projects
-- Project 1 - 
-- Project 2 - 
-- Project 3 - 
-- Project 4 - 
-- Project 5 - 
+- Project 1 - Loops and Conditionals
+- Project 2 - Loops and Libraries
+- Project 3 - Reading Input/Output
+- Project 4 - Introduction to Turtle Graphics
+- Project 5 - Turtle Graphics Game
