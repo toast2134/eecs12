@@ -14,6 +14,6 @@ The program prints the interest each consecutive year and the total at the end o
 100% 
 
 ### Files
-interest10year.py is the file that was submitted for grading. The comments were added after submission.
+interest10year.py is the file that was submitted for grading. Most of the comments were added after submission.
 <br />
 interest10yearRedone.py is the file that was redone to use float() when evaluating user input instead of eval(), assuming the user input is correct. This change was made because eval() has more security risks than float(), even though there is not much else done in terms of error handling.

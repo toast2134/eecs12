@@ -9,7 +9,7 @@ Online save for EECS12 - Introduction to Python at UCI
 - Conditionals
 - Loops
 - Input / Output
-- Turtle Graphics
+- Graphics
 - Libraries
 - Dictionaries
 - Lists (no list comprehensions)

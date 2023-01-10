@@ -55,7 +55,7 @@ def main():
 	print("Golden Ratio:",g)
 	
 	# Left side of Fibonacci
-	# prints Fn-k term
+	# prints F(n-k) term
 	f1,f2=1,0	
 	for i in range(n-k+1):
 		if i==0:
@@ -68,7 +68,7 @@ def main():
 	fL=f
 	print("Fn-k:",fL)
 	
-	# prints Fn+k term
+	# prints F(n+k) term
 	f1,f2=1,0
 	for i in range(n+k+1):
 		if i==0:
@@ -85,7 +85,7 @@ def main():
 	print("Left hand side:",fU+fL)
 	
 	# Right side error
-	# prints Lk (kth term in lucas series)
+	# prints L(k) (kth term in lucas series)
 	l1,l2=1,2
 	for i in range(k+1):
 		if i==0:
@@ -97,7 +97,7 @@ def main():
 			l2,l1=l1,l
 	print("Lk:",l)
 		
-	# prints Fn (nth term of fibonacci sequence)
+	# prints F(n) (nth term of fibonacci sequence)
 	f1,f2=1,0	
 	for i in range(n+1):
 		if i==0:
@@ -109,7 +109,7 @@ def main():
 			f2,f1=f1,f
 	print("Fn",f)
 
-	# "Right hand side" calculated by multiplying Lk and Fn
+	# "Right hand side" calculated by multiplying L(k) and F(n)
 	print("Right hand side:",f*l)
 	
 	# Golden Ratio error calculation
