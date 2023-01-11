@@ -17,9 +17,6 @@ the user decides to draw each vehicle incorrectly.
 - Libraries
 - Lists
 
-### Grade
-95% - road mark spacing was not exactly as required.
-
 ### Files
 city.py is the file that was submitted for grading. Most of the comments were added after submission.
 <br />

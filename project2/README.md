@@ -17,9 +17,6 @@ The last calculation is calculating the sum of F(n-k) and F(n+k) and also calcul
 - Conditionals
 - Libraries
 
-### Grade
-100%
-
 ### Files
 series.py is the file that was submitted for grading. Most of the comments were added after submission.
 <br />

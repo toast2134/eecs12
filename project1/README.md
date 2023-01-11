@@ -10,9 +10,6 @@ The program prints the interest each consecutive year and the total at the end o
 - Loops
 - Input / Output
 
-### Grade
-100% 
-
 ### Files
 interest10year.py is the file that was submitted for grading. Most of the comments were added after submission.
 <br />
