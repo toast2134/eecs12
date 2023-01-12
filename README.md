@@ -1,5 +1,7 @@
 # EECS 12
 Portfolio for EECS12 - Introduction to Python at UCI
+<br />
+This code is functional for Python 3.
 
 ### Topics Covered
 - Variables and names
