@@ -1,5 +1,5 @@
-# EECS12
-Online save for EECS12 - Introduction to Python at UCI
+# EECS 12
+Portfolio for EECS12 - Introduction to Python at UCI
 
 ### Topics Covered
 - Variables and names
