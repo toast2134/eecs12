@@ -1,9 +1,7 @@
 # Project 4 - Cityscape
 
 ### Description
-This program introduces graphics, using a graphics library provided by the textbook for the course. The general flow of the program is that once started,
-the user will be given directions via the prompts and will be able to draw a car with a trapezoidal roof and square base. Then, the user will be able to draw a truck, which consists of two rectangles on top of each other. The objects will begin to move once the truck has been drawn. This program does not include error handling if
-the user decides to draw each vehicle incorrectly.
+This program introduces graphics, using a graphics library provided by the textbook for the course. The general flow of the program is that once started, the user will be given directions via the prompts and will be able to draw a car with a trapezoidal roof and square base. Then, the user will be able to draw a truck, which consists of two rectangles on top of each other. The objects will begin to move once the truck has been drawn. This program does not include error handling if the user decides to draw each vehicle incorrectly.
 
 ### Topics Covered
 - Variables and names

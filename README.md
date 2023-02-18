@@ -1,5 +1,7 @@
 # EECS 12
-Portfolio for EECS12 - Introduction to Python at UCI
+Portfolio for EECS12 - Introduction to Python at UCI.
+<br />
+By: Jonathan Le
 <br />
 This code is functional for Python 3.
 
