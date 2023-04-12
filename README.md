@@ -1,4 +1,4 @@
-# EECS 12
+ # EECS 12
 Portfolio for EECS12 - Introduction to Python at UCI.
 <br />
 By: Jonathan Le
