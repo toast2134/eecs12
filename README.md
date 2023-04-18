@@ -3,7 +3,7 @@ Portfolio for EECS12 - Introduction to Python at UCI.
 <br />
 By: Jonathan Le
 <br />
-This code is functional for Python 3.
+This code is functional for Python 3.10
 
 ### Topics Covered
 - Variables and names
@@ -16,7 +16,7 @@ This code is functional for Python 3.
 - Graphics
 - Libraries
 - Dictionaries
-- Lists (no list comprehensions)
+- Lists
 
 ### Projects
 - Project 1 - Loops and Conditionals
