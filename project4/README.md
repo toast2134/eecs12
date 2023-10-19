@@ -15,7 +15,10 @@ This program introduces graphics, using a graphics library provided by the textb
 - Libraries
 - Lists
 
-### Files
+### Dependencies
+TKinter
+
+### Deliverables
 city.py is the file that was submitted for grading. Most of the comments were added after submission.
 <br />
 graphics.py is the graphics library that was provided, which includes various functions. After some research, the graphics library builds on TKinter, a graphics library in Python.

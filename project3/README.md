@@ -16,7 +16,7 @@ sorts through the data and counts how many types of each engineering major there
 - Libraries
 - Lists
 
-### Files
+### Deliverables
 majorCounter.py is the file that was submitted for grading. Most of the comments were added after submission.
 <br />
 names1.txt is a valid input file and names1-out.txt is the corresponding output file.

@@ -17,7 +17,7 @@ The last calculation is calculating the sum of F(n-k) and F(n+k) and also calcul
 - Conditionals
 - Libraries
 
-### Files
+### Deliverables
 series.py is the file that was submitted for grading. Most of the comments were added after submission.
 <br />
 seriesRedone.py is the file that was redone after submission with new knowledge about functions so that the code would be more condensed.

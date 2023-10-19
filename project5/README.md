@@ -18,7 +18,10 @@ There is a score counter, which keeps track of how many vehicles of each color t
 - Dictionaries
 - Lists
 
-### Files
+### Dependencies
+Tkinter
+
+### Deliverables
 cityGame.py is the file that was submitted for grading. Most of the comments were added after submission.
 <br />
 graphics.py is the graphics library that was provided, which includes various functions. After some research, the graphics library builds on TKinter, a graphics library in Python.

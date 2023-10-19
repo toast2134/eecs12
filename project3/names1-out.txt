@@ -102,7 +102,6 @@ Valentin Magdalena 0  1
 Benjamin Tommaso Naresh Amelia 4 
 Johann Valerius Melissa 0 
 Jannis Amy 2 
-
 The number of Electrical Engineering students: 26
 The number of Computer Engineering students: 26
 The number of Mechanical Engineering students: 35
