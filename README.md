@@ -26,7 +26,6 @@ Note: Linux will run the graphics programs super fast.
 2. Tkinter
     - For Linux users (Debian/Ubuntu), Tkinter and python3 are not installed at the same time. Make sure you have both.
 ```
-For Debian/Ubuntu and other distros that use apt:
 sudo apt-get install python3
 sudo apt-get install python3-tk
 ```
